@@ -5,6 +5,10 @@ Feel free to explore, contribute, or use them for learning and collaboration.
 
 ---
 
+[![An image of @safwaahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/safwaahmad)](https://holopin.io/@safwaahmad)
+
+---
+
 ## 📚 Table of Contents
 
 1. [Projects](#projects)
